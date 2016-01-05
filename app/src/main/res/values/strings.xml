@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FragmentsApplication</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="such_android">Such an Android!!</string>
+
+<string name="enter_name">Enter Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="submit_text">Submit</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
